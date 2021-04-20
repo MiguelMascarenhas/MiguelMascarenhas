@@ -7,7 +7,7 @@
 - 👋 I'm **Miguel Mascarenhas**.
 - 📌 I'm from Portugal.
 - 💼 Currently working as a Software Developer.
-- 🎓 I'm graduated in Computer Science, currently in the first year of Master in Cybersecurity and Digital Forensics!
+- 🎓 I'm graduated in Computer Science, currently in the first year of my Masters in Cybersecurity and Digital Forensics!
 
 <hr>
 
