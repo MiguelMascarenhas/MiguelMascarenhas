@@ -9,9 +9,6 @@
 - 💼 Currently working as a Software Developer.
 - 🎓 I'm graduated in Computer Science, currently in the first year of Master in Cybersecurity and Digital Forensics!
 
-- 🛠️ Studying to become a **Web Developer**.
-- 🔭 Curiosities: Surfer, Movie Buff, Soccer Player, and New Tech Blogger.
-
 <hr>
 
 ### ⚡ Skills
